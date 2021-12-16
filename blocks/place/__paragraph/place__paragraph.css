@@ -1,0 +1,12 @@
+.place__paragraph {
+margin: 0;
+color: white;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 163%;
+}
+
+.place__paragraph:nth-of-type(1) { 
+    margin: 0 0 26px 0;
+  }
