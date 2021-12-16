@@ -14,13 +14,12 @@
     font-style: normal;
     font-weight: 900;
     line-height: 109%;
-    max-width: 288px;
-    margin: 64px 0 40px 0;
+    margin: 64px auto 40px auto;
   }
 }
 
 @media screen and (max-width: 1023px) {
   .intro__title {
-    margin: 88px 0 40px 0;
+    margin: 88px 0 40px;
   }
 }
