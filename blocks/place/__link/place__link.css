@@ -4,4 +4,10 @@
     font-weight: normal;
     font-size: 18px;
     line-height: 122%;
+    transition: 0.7s;
+}
+
+.place__link:hover {
+    transition: 0.1s;
+    color: #e5e5e5;
 }
