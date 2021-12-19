@@ -4,10 +4,10 @@
     font-weight: normal;
     font-size: 18px;
     line-height: 122%;
-    transition: 0.7s;
+    transition: 0.2s;
 }
 
 .place__link:hover {
-    transition: 0.1s;
-    color: #e5e5e5;
+    opacity: 0.8;
+    transition: 0.2s;
 }
