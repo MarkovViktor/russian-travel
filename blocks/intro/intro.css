@@ -5,22 +5,14 @@
   margin: 0 auto;
 }
 
-@media screen and (min-width: 1280px) {
-  .intro {
-    margin: 0 auto;
-  }
-}
-
 @media screen and (max-width: 1279px) {
   .intro {
-    margin: 0 auto;
     max-width: 928px;
   }
 }
 
 @media screen and (max-width: 1023px) {
   .intro {
-    margin: 0 auto;
     max-width: 720px;
     padding: 0 24px;
   }
@@ -28,7 +20,6 @@
 
 @media screen and (max-width: 767px) {
   .intro {
-    margin: 0 auto;
     padding: 0 16px;
     max-width: 288px;
   }
